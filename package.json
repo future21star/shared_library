@@ -1,6 +1,6 @@
 {
   "name": "My Angular Library",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "My Angular Library sample project",
   "main": "index.js",
   "types": "index.d.ts",

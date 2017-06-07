@@ -1,5 +1,5 @@
 {
-  "name": "My Angular Library",
+  "name": "shared_library_sample",
   "version": "0.1.12",
   "description": "My Angular Library sample project",
   "main": "index.js",
@@ -42,6 +42,7 @@
     "run-sequence": "^1.2.2",
     "rxjs": "5.0.0-beta.12",
     "typescript": "^2.0.3",
-    "typings": "^1.4.0"
+    "typings": "^1.4.0",
+    "xyz": "^2.1.0"
   }
 }
